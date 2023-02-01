@@ -7,7 +7,7 @@ Given a bwt endoded document in a particular format (described below), returns t
 
 1 A very very long line
 
-**Example BWT Endode File:**
+**Example BWT Encoded File:**
 
 1gyyAe nvvnl  iolee  rr
 
