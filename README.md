@@ -1,7 +1,7 @@
 # bwt-decode-search
 An implementation of the Burrows-Wheeler Transform decoding and searching algorithms
 
-Given a bwt endoded document in a particular format (described below), returns the ouput (also in a particular format)
+Given a bwt encoded document in a particular format, returns the ouput a particular format
 
 **Example Original File / Decoded Output:**
 
